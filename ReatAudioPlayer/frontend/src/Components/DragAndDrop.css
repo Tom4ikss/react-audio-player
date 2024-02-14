@@ -1,0 +1,23 @@
+.chooseText {
+    text-align: center;
+    color: #f25f5c;
+    margin-top: 10vh;
+    font-size: 3vh;
+}
+
+.languages {
+    text-align: center;
+}
+
+#language {
+    width: 30px;
+    height: 20px;
+
+    padding-top: 2vh;
+
+    cursor: pointer;
+}
+
+.english {
+    padding: 0 1vh;
+}
